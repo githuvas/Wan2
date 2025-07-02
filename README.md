@@ -36,6 +36,7 @@ In this repository, we present **Wan2.1**, a comprehensive and open suite of vid
 
 ## Community Works
 If your work has improved **Wan2.1** and you would like more people to see it, please inform us.
+- [AniCrafter](https://github.com/MyNiuuu/AniCrafter), a human-centric animation model based on **Wan2.1-14B-I2V**, controls the Video Diffusion Models with 3DGS Avatars to insert and animate anyone into any scene following given motion sequences. Refer to the [project page](https://myniuuu.github.io/AniCrafter) for more examples.
 - [HyperMotion](https://vivocameraresearch.github.io/hypermotion/), a human image animation framework based on **Wan2.1**, addresses the challenge of generating complex human body motions in pose-guided animation. Refer to [their website](https://vivocameraresearch.github.io/magictryon/) for more examples.
 - [MagicTryOn](https://vivocameraresearch.github.io/magictryon/), a video virtual try-on framework built upon **Wan2.1-14B-I2V**, addresses the limitations of existing models in expressing garment details and maintaining dynamic stability during human motion. Refer to [their website](https://vivocameraresearch.github.io/magictryon/) for more examples.
 - [ATI](https://github.com/bytedance/ATI), built on **Wan2.1-I2V-14B**, is a trajectory-based motion-control framework that unifies object, local, and camera movements in video generation. Refer to [their website](https://anytraj.github.io/) for more examples.
