@@ -1,0 +1,77 @@
+# Core AI and ML dependencies
+torch>=2.4.0
+torchvision>=0.19.0
+torchaudio>=2.4.0
+diffusers>=0.31.0
+transformers>=4.49.0
+tokenizers>=0.20.3
+accelerate>=1.1.1
+safetensors>=0.4.0
+
+# Computer Vision and Image Processing
+opencv-python>=4.9.0.80
+Pillow>=10.0.0
+imageio>=2.31.0
+imageio-ffmpeg>=0.4.9
+scikit-image>=0.21.0
+
+# 3D Graphics and Rendering
+open3d>=0.17.0
+trimesh>=4.0.0
+pyrender>=0.1.45
+moderngl>=5.9.0
+moderngl-window>=2.4.0
+pyglet>=2.0.0
+
+# Physics and Mathematics
+scipy>=1.11.0
+numpy>=1.23.5,<2
+scipy-spatial>=1.11.0
+
+# Web Interface
+gradio>=5.0.0
+dashscope>=1.14.0
+
+# Audio Processing
+librosa>=0.10.0
+soundfile>=0.12.0
+pydub>=0.25.0
+
+# Utilities
+tqdm>=4.65.0
+easydict>=1.9.0
+ftfy>=6.1.0
+wandb>=0.15.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Performance and Optimization
+flash-attn>=2.3.0
+xformers>=0.0.22
+optimum>=1.14.0
+
+# Additional AI Models
+sentence-transformers>=2.2.0
+clip-by-openai>=1.0
+open-clip-torch>=2.20.0
+
+# File and Data Handling
+h5py>=3.9.0
+lmdb>=1.4.0
+msgpack>=1.0.5
+
+# Development and Testing
+pytest>=7.4.0
+black>=23.0.0
+flake8>=6.0.0
+mypy>=1.5.0
+
+# Optional: GPU Support
+# nvidia-ml-py3>=7.352.0  # For GPU monitoring
+# cupy-cuda12x>=12.0.0   # For CUDA acceleration (if using CUDA 12.x)
+
+# Optional: Advanced Features
+# whisper>=1.1.0         # For speech recognition
+# coqui-tts>=0.14.0      # For text-to-speech
+# facexlib>=0.3.0        # For face detection
+# insightface>=0.7.0     # For face recognition
