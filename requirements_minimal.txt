@@ -1,0 +1,29 @@
+# Core AI and ML dependencies
+torch>=2.0.0
+torchvision>=0.15.0
+diffusers>=0.21.0
+transformers>=4.30.0
+accelerate>=0.20.0
+safetensors>=0.3.0
+
+# Computer Vision and Image Processing
+opencv-python>=4.8.0
+Pillow>=9.5.0
+imageio>=2.25.0
+imageio-ffmpeg>=0.4.8
+
+# 3D Graphics and Rendering (simplified)
+numpy>=1.21.0
+scipy>=1.9.0
+
+# Web Interface
+gradio>=3.40.0
+
+# Utilities
+tqdm>=4.64.0
+easydict>=1.9.0
+ftfy>=6.1.0
+matplotlib>=3.6.0
+
+# Additional AI Models
+sentence-transformers>=2.2.0
